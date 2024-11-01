@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#070608;}
+	.st1{display:none;fill:#080B35;}
+	.st2{fill:#2D54A4;}
+	.st3{font-family:'Dashicons-Regular';}
+	.st4{font-size:120px;}
+</style>
+<g id="Layer_1">
+	<g>
+		<polygon class="st0" points="192,192 192,248 192,256 256,192 247.8,192 		"/>
+		<polygon class="st0" points="0,0 0,256 192,256 184,248 8,248 8,8 247.8,8 247.8,183.9 256,192 256,0 		"/>
+	</g>
+	<path class="st1" d="M141.4,182.7c0.5-5.3,5.3-9.2,10.6-8.6l14.4,1.5l0.1-0.4l-11.4-1.2c-4.6-0.5-8-5.2-7.4-10.5
+		c0.5-5.3,4.7-9.2,9.4-8.8l38.2,3.9l5.4,0.1c0,0-7.8-3.6-1.8-31.9c6-28.3,21.9-17.7,21.9-17.7s0.2,24.2,1.1,27.7
+		c0.9,3.4,19.5,39.7,19.5,39.7c0,1.9,11.5,3.8,11.5,5.8c-0.1,16.7,0,30.9,0,48.2c-12.4-3.2-19,6.5-45.4,6.5
+		c-8.6,0-19.4-1.4-28.5-2.9l-23.8-2.4c-4.1-0.4-7-5.1-6.5-10.4c0.4-4.1,2.8-7.3,5.8-8.4l-3-0.3c-4.7-0.5-8.1-5.2-7.6-10.5
+		c0.5-4.6,3.7-7.9,7.6-8.5l-1.2-0.1C144.7,192.7,140.9,188,141.4,182.7z"/>
+</g>
+<g id="Layer_2">
+	<text transform="matrix(-1 0 0 1 188 188)" class="st2 st3 st4"></text>
+</g>
+</svg>
